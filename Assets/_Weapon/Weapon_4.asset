@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f43c9b12c037b7149bfa3c8d68d3b85c, type: 3}
+  m_Name: Weapon_4
+  m_EditorClassIdentifier: 
+  weapons: 1
+  weaponType: 3
+  Icon: {fileID: 21300000, guid: d19901b0ee3c38743a7d383bd484b0b5, type: 3}
+  fireRate: 0.05
+  reloadTime: 5
+  explosionArea: 0
+  damage: 20
+  maxAmmoAmount: 100
+  minAmmoAmount: 20
+  burstAmmount: 3
+  weaponTypeArray: 4
+  projectile: {fileID: 6495201427027549832, guid: efaa035dc96e8a14ca8e418cef7a3259, type: 3}
+  equippedPrefab: {fileID: 6392740094622043615, guid: 974599686b1025844b2c7b177377f061, type: 3}
